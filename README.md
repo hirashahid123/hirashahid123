@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Hira Shahid 👋
 
-<!--
-**hirashahid123/hirashahid123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at DHA Suffa University (DSU), Karachi.
 
-Here are some ideas to get you started:
+- 🎓 Currently in my 4th semester — coursework includes Object-Oriented Programming, Fundamentals of Programming, Artificial Intelligence, Operating Systems, Data Communications & Networking, probability Statistics, and Multivariable Calculus
+- 📈 Currently completing Google's Data Analytics Professional Certificate on Coursera
+- 📊 Interested in Data Analytics
+- 🤖 Built an AI project: a Tkinter-based GUI application in Python
+- 📄 Wrote a comparative ML review paper (Linear Regression vs Random Forest vs XGBoost) on the Ames Housing Dataset
+- 🌐 Also worked on enterprise network simulations (VLANs, OSPF, DHCP/DNS) in Cisco Packet Tracer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** Python · OOP · Data Analysis · Excel · Networking (Cisco Packet Tracer)
+
+📫 Reach me: hirashahid324@gmail.com | www.linkedin.com/in/hira-shahid-aa98b3287
+
