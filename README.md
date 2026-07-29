@@ -5,7 +5,7 @@ Data Science student at DHA Suffa University (DSU), Karachi.
 - 🎓 Currently in my 4th semester — coursework includes Object-Oriented Programming, Fundamentals of Programming, Artificial Intelligence, Operating Systems, Data Communications & Networking, probability Statistics, and Multivariable Calculus
 - 📈 Currently completing Google's Data Analytics Professional Certificate on Coursera
 - 📊 Interested in Data Analytics
-- 🤖 Built an AI project: a Tkinter-based GUI application in Python
+- 🤖 Built an AI project: a Tkinter-based GUI application in Python ([see repo](https://github.com/hirashahid123/tkinter-gui-calculator))
 - 📄 Wrote a comparative ML review paper (Linear Regression vs Random Forest vs XGBoost) on the Ames Housing Dataset
 - 🌐 Also worked on enterprise network simulations (VLANs, OSPF, DHCP/DNS) in Cisco Packet Tracer
 
