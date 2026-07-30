@@ -7,7 +7,7 @@ Data Science student at DHA Suffa University (DSU), Karachi.
 - 📊 Interested in Data Analytics
 - 🤖 Built an AI project: a Tkinter-based GUI application in Python ([see repo](https://github.com/hirashahid123/tkinter-gui-calculator))
 - 📄 Wrote a comparative ML review paper (Linear Regression vs Random Forest vs XGBoost) on the Ames Housing Dataset ([see repo](https://github.com/hirashahid123/ml-comparative-review-house-prices))
-- 🌐 Also worked on enterprise network simulations (VLANs, OSPF, DHCP/DNS) in Cisco Packet Tracer
+- 🌐 Also worked on enterprise network simulations (VLANs, OSPF, DHCP/DNS) in Cisco Packet Tracer ([see repo](https://github.com/hirashahid123/smart-hospital-network-packet-tracer))
 
 **Skills:** Python · OOP · Data Analysis · Excel · Networking (Cisco Packet Tracer)
 
